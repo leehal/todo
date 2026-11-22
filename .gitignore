@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# mise local overrides (personal, not shared)
+mise.local.toml
+.mise.local.toml
+
+# env files
+.env
+.env.*
+!.env.example
